@@ -10,7 +10,7 @@
     "Microcontroller",
     "backend"
   ],
-  "author": "KDS",
+  "author": "KDS, sid",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
